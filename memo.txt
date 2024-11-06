@@ -1,0 +1,2 @@
+gitとREACTを触ってみようの会
+参考：https://ja.react.dev/learn/tutorial-tic-tac-toe
